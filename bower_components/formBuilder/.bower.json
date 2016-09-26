@@ -1,0 +1,38 @@
+{
+  "name": "formBuilder",
+  "description": "Automatic Form Generator",
+  "main": "formBuilder.js",
+  "moduleType": [],
+  "keywords": [
+    "form",
+    "builder",
+    "form",
+    "generator"
+  ],
+  "authors": [
+    "Surendher"
+  ],
+  "dependencies": {
+    "angular": ">=1.2.18",
+    "angular-validator": ">=0.2.3"
+  },
+  "license": "Y",
+  "homepage": "Null",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "85a4cf7270",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "85a4cf7270046aade776b4e9da4cef108843cdeb"
+  },
+  "_source": "git://github.com/surenlancer7/formGenerator.git",
+  "_target": "*",
+  "_originalSource": "surenlancer7/formGenerator",
+  "_direct": true
+}
