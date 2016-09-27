@@ -8,6 +8,12 @@
         $scope.html = [];
         $scope.html = input;
         $rootScope.result = input;
+        alert($rootScope.result);
+        var res = document.getElementById("result").value;
+        console.log(res);
+        console.log(window.top.test);
+        window.top.test = res;
+        window.top.testScope = "sdfdsafds";
     };
     $scope.submit = function(form) {
         console.log(form);
